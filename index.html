@@ -155,7 +155,47 @@ garantía y financiación a tu medida.
   
 
 <section>
+<section class="search-box">
 
+<h2>Encuentra tu coche ideal</h2>
+
+<div class="filters">
+
+<select>
+<option>Marca</option>
+<option>BMW</option>
+<option>Audi</option>
+<option>Mercedes</option>
+<option>Porsche</option>
+</select>
+
+<select>
+<option>Modelo</option>
+<option>Serie 3</option>
+<option>A4</option>
+<option>Clase C</option>
+</select>
+
+<select>
+<option>Precio máximo</option>
+<option>20.000 €</option>
+<option>30.000 €</option>
+<option>50.000 €</option>
+</select>
+
+<select>
+<option>Combustible</option>
+<option>Diesel</option>
+<option>Gasolina</option>
+<option>Híbrido</option>
+</select>
+
+<button>BUSCAR</button>
+
+</div>
+
+</section>
+  
 <div class="card">
 <h2>¿Qué hacemos?</h2>
 <p>Localizamos coches en Alemania, negociamos el precio, gestionamos la documentación y los llevamos hasta España.</p>
@@ -172,7 +212,62 @@ garantía y financiación a tu medida.
 </div>
 
 </section>
+.search-box{
+background:white;
+padding:40px 20px;
+max-width:1000px;
+margin:40px auto;
+border-radius:15px;
+box-shadow:0 5px 20px rgba(0,0,0,.1);
+}
 
+.search-box h2{
+text-align:center;
+font-size:30px;
+}
+
+.filters{
+display:grid;
+grid-template-columns:repeat(4,1fr);
+gap:15px;
+}
+
+.filters select,
+.filters button{
+padding:15px;
+border-radius:8px;
+border:1px solid #ddd;
+font-size:16px;
+}
+
+.filters button{
+background:#0d6efd;
+color:white;
+border:none;
+font-weight:bold;
+cursor:pointer;
+}
+
+@media(max-width:700px){
+
+.filters{
+grid-template-columns:1fr;
+}
+
+.hero h2{
+font-size:32px;
+}
+
+nav{
+display:none;
+}
+
+header{
+padding:20px;
+}
+
+}
+  
 <footer>
 © 2026 Mi Auto Import
 </footer>
