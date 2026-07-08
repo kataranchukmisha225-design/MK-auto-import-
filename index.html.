@@ -35,3 +35,17 @@ h1{
 <h1>MK Auto Import</h1>
 <p>Compra y venta de vehículos importados</p>
 </header>
+<section class="contacto">
+<h2>Contacto</h2>
+
+<p>📍 Madrid, San Lorenzo de El Escorial</p>
+
+<p>📞 Llamadas: 632228298</p>
+
+<p>💬 WhatsApp: 614381776</p>
+
+<p>✉️ kataranchukmisha225@gmail.com</p>
+
+<a href="https://wa.me/34614381776" class="boton">Escríbenos por WhatsApp</a>
+
+</section>
