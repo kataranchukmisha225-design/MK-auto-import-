@@ -15,8 +15,35 @@ background:#f5f5f5;
 header{
 background:#111;
 color:white;
-padding:20px;
-text-align:center;
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:20px 40px;
+position:sticky;
+top:0;
+z-index:1000;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:0 15px;
+font-weight:bold;
+}
+
+nav a:hover{
+color:#0d6efd;
+}
+
+.btn-header{
+background:#0d6efd;
+color:white;
+padding:12px 22px;
+border-radius:8px;
+text-decoration:none;
+font-weight:bold;
+}
+  
 }
 
 .hero{
@@ -64,10 +91,22 @@ padding:20px;
 <body>
 
 <header>
-<h1>Mi Auto Import</h1>
-<p>Importamos coches de Alemania al mejor precio.</p>
-</header>
+<div class="logo">
+<h1>MK Auto Import</h1>
+</div>
 
+<nav>
+<a href="#">Inicio</a>
+<a href="#">Stock</a>
+<a href="#">Buscar coche</a>
+<a href="#">Financiación</a>
+<a href="#">Contacto</a>
+</nav>
+
+<a class="btn-header" href="#">Solicitar financiación</a>
+</header>
+  
+  
 <div class="hero">
 <h2>Encuentra el coche de tus sueños</h2>
 <p>Buscamos, revisamos e importamos vehículos desde Alemania.</p>
