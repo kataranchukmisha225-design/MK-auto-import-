@@ -179,6 +179,90 @@ display:block;
 margin:20px;
 text-align:center;
 }
+  <section class="finance">
+
+<h2>Financia tu próximo coche</h2>
+
+<p>
+Calcula tu cuota mensual y consigue tu vehículo de Alemania.
+</p>
+
+<div class="finance-box">
+
+<div>
+<label>Precio del coche</label>
+<input type="text" value="30000 €">
+</div>
+
+<div>
+<label>Entrada</label>
+<input type="text" value="5000 €">
+</div>
+
+<div>
+<label>Meses</label>
+<input type="text" value="60">
+</div>
+
+<div class="price">
+Cuota aproximada:
+<strong>499 €/mes</strong>
+</div>
+
+<a class="btn" href="#">Solicitar financiación</a>
+
+</div>
+
+</section>
+  .finance{
+background:#111;
+color:white;
+padding:50px 20px;
+text-align:center;
+border-radius:15px;
+margin:40px auto;
+max-width:1000px;
+}
+
+.finance h2{
+font-size:35px;
+}
+
+.finance-box{
+background:white;
+color:#111;
+padding:30px;
+border-radius:15px;
+display:grid;
+gap:20px;
+max-width:600px;
+margin:auto;
+}
+
+.finance-box label{
+display:block;
+font-weight:bold;
+margin-bottom:8px;
+}
+
+.finance-box input{
+width:100%;
+padding:12px;
+border-radius:8px;
+border:1px solid #ddd;
+box-sizing:border-box;
+}
+
+.price{
+font-size:20px;
+}
+
+.price strong{
+display:block;
+font-size:35px;
+color:#0d6efd;
+margin-top:10px;
+  }
   
 footer{
 background:#111;
