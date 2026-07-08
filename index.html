@@ -47,10 +47,38 @@ font-weight:bold;
 }
 
 .hero{
-background:#0d6efd;
+background:
+linear-gradient(rgba(0,0,0,.65),rgba(0,0,0,.65)),
+url("https://images.unsplash.com/photo-1503376780353-7e6692767b70");
+background-size:cover;
+background-position:center;
 color:white;
-padding:60px 20px;
-text-align:center;
+padding:100px 40px;
+min-height:450px;
+display:flex;
+align-items:center;
+}
+
+.hero-text{
+max-width:600px;
+}
+
+.hero h2{
+font-size:45px;
+line-height:1.1;
+}
+
+.hero p{
+font-size:18px;
+}
+
+.dark{
+background:transparent;
+border:1px solid white;
+color:white;
+margin-left:10px;
+}
+  
 }
 
 .btn{
@@ -108,10 +136,23 @@ padding:20px;
   
   
 <div class="hero">
-<h2>Encuentra el coche de tus sueños</h2>
-<p>Buscamos, revisamos e importamos vehículos desde Alemania.</p>
-<a class="btn" href="#">Contactar</a>
+
+<div class="hero-text">
+<h2>IMPORTAMOS LOS MEJORES<br>
+COCHES DE ALEMANIA</h2>
+
+<p>
+Vehículos revisados, historial verificado,
+garantía y financiación a tu medida.
+</p>
+
+<a class="btn" href="#">VER STOCK</a>
+<a class="btn dark" href="#">BUSCAR MI COCHE</a>
+
 </div>
+
+</div>
+  
 
 <section>
 
