@@ -158,10 +158,6 @@ footer {
     <a href="#contacto">Contacto</a>
 </nav>
 
-<header>
-    <h1>MK Auto Import</h1>
-    <p>Importación y venta de vehículos de Alemania y Europa</p>
-</header>
 
 
 <section id="inicio" class="portada">
