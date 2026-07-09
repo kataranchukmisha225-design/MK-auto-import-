@@ -103,7 +103,7 @@ footer {
 
 
 <nav>
-    <img src="logo-mk.png" class="logo">
+    <img src="logo-mk.png" alt="Logo MK Auto Import" class="logo">
 
     <h1>MK AUTO IMPORT</h1>
 
