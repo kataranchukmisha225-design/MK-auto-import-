@@ -100,7 +100,7 @@ footer {
     height: auto;
     display: block;
     margin: 0 auto 20px;
-} .logo 
+} 
 /* GALERÍA DE COCHES */
 
 .galeria{
