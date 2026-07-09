@@ -5,35 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>MK Auto Import</title>
-@media (max-width:768px){
 
-nav h1{
-    font-size:28px;
-}
-
-nav a{
-    display:block;
-    margin:10px 0;
-}
-
-section{
-    margin:15px;
-    padding:25px;
-}
-
-.portada h2{
-    font-size:28px;
-}
-
-.coche{
-    width:100%;
-}
-
-.logo{
-    width:130px;
-}
-
-}
 <style>
 html{
     scroll-behavior:smooth;
