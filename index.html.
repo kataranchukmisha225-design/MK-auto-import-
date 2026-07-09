@@ -114,7 +114,7 @@ footer {
 </header>
 
 
-<section class="portada">
+<section id="inicio" class="portada">
     <h2>Tu coche importado, sin complicaciones</h2>
     <p>
         En MK Auto Import buscamos y traemos vehículos de Alemania y Europa,
