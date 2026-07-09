@@ -147,7 +147,27 @@ footer {
         Si buscas un modelo concreto, contacta con nosotros y lo buscamos para ti.
     </p>
 </section>
+<div class="galeria">
 
+    <div class="coche">
+        <img src="imagenes/bmw.jpg" alt="BMW Serie 3">
+        <h3>BMW Serie 3</h3>
+        <p>Importación bajo pedido</p>
+    </div>
+
+    <div class="coche">
+        <img src="imagenes/audi.jpg" alt="Audi A4">
+        <h3>Audi A4</h3>
+        <p>Importación bajo pedido</p>
+    </div>
+
+    <div class="coche">
+        <img src="imagenes/mercedes.jpg" alt="Mercedes Clase C">
+        <h3>Mercedes Clase C</h3>
+        <p>Importación bajo pedido</p>
+    </div>
+
+</div>
 <section id="servicios">
     <h2>Nuestros servicios</h2>
 
