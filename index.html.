@@ -87,25 +87,7 @@ footer {
 </style>
 </head>
 <body>
-.logo {
-    text-align: center;
-    padding: 20px;
-    background: #111;
-}
 
-.marca {
-    font-size: 40px;
-    font-weight: bold;
-    color: white;
-}
-
-.marca span {
-    color: #00ff66;
-}
-
-.logo p {
-    color: white;
-    margin: 5px;
 }
 <nav>
     <a href="#inicio">Inicio</a>
