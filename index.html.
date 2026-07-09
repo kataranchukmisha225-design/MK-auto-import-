@@ -87,6 +87,18 @@ footer {
 </style>
 </head>
 <body>
+
+<header>
+    <h1>MK Auto Import</h1>
+    <p>Compra y venta de vehículos importados</p>
+</header>
+
+<nav>
+    <a href="#inicio">Inicio</a>
+    <a href="#coches">Coches</a>
+    <a href="#servicios">Servicios</a>
+    <a href="#contacto">Contacto</a>
+</nav>
 <header>
     <h1>MK Auto Import</h1>
     <p>Importación y venta de vehículos de Alemania y Europa</p>
@@ -97,24 +109,41 @@ footer {
     <a href="#servicios">Servicios</a>
     <a href="#contacto">Contacto</a>
 </nav>
-<section id="coches">
-    <h2>Vehículos disponibles</h2>
-    <p>Encuentra tu coche importado con garantía y confianza.</p>
+<section class="portada">
+    <h2>Tu coche importado, sin complicaciones</h2>
+    <p>
+        En MK Auto Import buscamos y traemos vehículos de Alemania y Europa,
+        ofreciendo coches seleccionados, garantía y asesoramiento personalizado.
+    </p>
 
-    <div>
-        <h3>BMW, Mercedes, Audi y más</h3>
-        <p>Traemos vehículos seleccionados de Alemania y Europa.</p>
-    </div>
+    <a class="boton" href="https://wa.me/34614381776">
+        Contactar por WhatsApp
+    </a>
+</section>
+<section id="coches">
+    <h2>Próximamente vehículos disponibles</h2>
+
+    <p>
+        Estamos preparando nuestro catálogo de vehículos importados.
+        Muy pronto podrás ver coches seleccionados de Alemania y Europa.
+    </p>
+
+    <p>
+        Si buscas un modelo concreto, contacta con nosotros y lo buscamos para ti.
+    </p>
+</section>
 </section>
 <section id="servicios">
     <h2>Nuestros servicios</h2>
 
     <ul>
-        <li>Importación de vehículos desde Alemania y Europa</li>
-        <li>Búsqueda del coche que necesitas</li>
-        <li>Gestión de compra y transporte</li>
-        <li>Vehículos con garantía</li>
+        <li>🚗 Importación de vehículos desde Alemania y Europa</li>
+        <li>🔎 Búsqueda personalizada del vehículo que necesitas</li>
+        <li>📋 Asesoramiento durante todo el proceso de compra</li>
+        <li>🚚 Gestión de transporte y matriculación en España</li>
+        <li>🛡️ Vehículos revisados y con garantía</li>
     </ul>
+</section>
 </section>
 <section id="contacto">
     <h2>Contacto</h2>
