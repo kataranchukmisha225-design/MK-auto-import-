@@ -88,11 +88,6 @@ footer {
 </head>
 <body>
 
-<header>
-    <h1>MK Auto Import</h1>
-    <p>Compra y venta de vehículos importados</p>
-</header>
-
 <nav>
     <a href="#inicio">Inicio</a>
     <a href="#coches">Coches</a>
