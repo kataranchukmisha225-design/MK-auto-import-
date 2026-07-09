@@ -13,25 +13,25 @@ body {
     color: #222;
 }
 
-header {
+nav {
     background: #111;
     color: white;
     text-align: center;
     padding: 40px 20px;
 }
 
-header h1 {
+nav h1 {
     font-size: 40px;
     margin: 0;
 }
 
-nav {
+header {
     background: #e30613;
     padding: 15px;
     text-align: center;
 }
 
-nav a {
+header {
     color: white;
     text-decoration: none;
     margin: 15px;
