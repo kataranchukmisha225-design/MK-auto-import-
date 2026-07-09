@@ -175,17 +175,41 @@ footer {
         Contactar por WhatsApp
     </a>
 </section>
-...
-</section> <!-- Fin de "Sobre Nosotros" -->
-
 <section id="coches">
 
-    <!-- Aquí va el nuevo código -->
+    <h2>Próximamente vehículos disponibles</h2>
+
+    <p>
+        En MK Auto Import estamos seleccionando vehículos de alta calidad procedentes de Alemania y otros países de Europa.
+    </p>
+
+    <p>
+        Si buscas un modelo concreto, contacta con nosotros y lo encontraremos para ti.
+    </p>
+
+    <div class="galeria">
+
+        <div class="coche">
+            <img src="imagenes/bmw.jpg" alt="BMW Serie 3">
+            <h3>BMW Serie 3</h3>
+            <p>Importación bajo pedido</p>
+        </div>
+
+        <div class="coche">
+            <img src="imagenes/audi.jpg" alt="Audi A4">
+            <h3>Audi A4</h3>
+            <p>Importación bajo pedido</p>
+        </div>
+
+        <div class="coche">
+            <img src="imagenes/mercedes.jpg" alt="Mercedes Clase C">
+            <h3>Mercedes Clase C</h3>
+            <p>Importación bajo pedido</p>
+        </div>
+
+    </div>
 
 </section>
-
-<section id="contacto">
-...
 <div class="galeria">
 
     <div class="coche">
