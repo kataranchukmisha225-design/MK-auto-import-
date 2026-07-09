@@ -104,11 +104,7 @@ footer {
     <p>Importación y venta de vehículos de Alemania y Europa</p>
 </header>
 
-<nav>
-    <a href="#coches">Coches</a>
-    <a href="#servicios">Servicios</a>
-    <a href="#contacto">Contacto</a>
-</nav>
+
 <section class="portada">
     <h2>Tu coche importado, sin complicaciones</h2>
     <p>
@@ -132,7 +128,7 @@ footer {
         Si buscas un modelo concreto, contacta con nosotros y lo buscamos para ti.
     </p>
 </section>
-</section>
+
 <section id="servicios">
     <h2>Nuestros servicios</h2>
 
@@ -144,7 +140,7 @@ footer {
         <li>🛡️ Vehículos revisados y con garantía</li>
     </ul>
 </section>
-</section>
+
 <section id="contacto">
     <h2>Contacto</h2>
 
@@ -164,7 +160,7 @@ footer {
 
     <p>✉️ kataranchukmisha225@gmail.com</p>
 </section>
-</section>
+
 <footer>
     <p>© 2026 MK Auto Import - Todos los derechos reservados</p>
 </footer>
