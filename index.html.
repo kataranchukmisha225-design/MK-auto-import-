@@ -97,8 +97,11 @@ footer {
 
 <nav>
 
+<nav>
 
     <img src="logo-mk.png" class="logo">
+
+    <h1>MK AUTO IMPORT</h1>
 
     <a href="#inicio">Inicio</a>
     <a href="#coches">Coches</a>
