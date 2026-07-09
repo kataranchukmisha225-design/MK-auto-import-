@@ -90,6 +90,10 @@ footer {
 
 
 <nav>
+    <nav>
+
+    <img src="logo-mk.png" class="logo">
+
     <a href="#inicio">Inicio</a>
     <a href="#coches">Coches</a>
     <a href="#servicios">Servicios</a>
