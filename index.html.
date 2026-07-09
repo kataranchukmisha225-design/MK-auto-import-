@@ -148,10 +148,22 @@ footer {
 <section id="contacto">
     <h2>Contacto</h2>
 
-    <p>📍 Madrid, San Lorenzo de El Escorial</p>
-    <p>📞 WhatsApp: 614381776</p>
-    <p>📞 Llamadas: 632228298</p>
-    <p>✉️ Email: kataranchukmisha225@gmail.com</p>
+    <p>📍 San Lorenzo de El Escorial, Madrid</p>
+
+    <p>
+        <a class="boton" href="https://wa.me/34614381776">
+            WhatsApp
+        </a>
+    </p>
+
+    <p>
+        <a class="boton" href="tel:+34632228298">
+            Llamar ahora
+        </a>
+    </p>
+
+    <p>✉️ kataranchukmisha225@gmail.com</p>
+</section>
 </section>
 <footer>
     <p>© 2026 MK Auto Import - Todos los derechos reservados</p>
