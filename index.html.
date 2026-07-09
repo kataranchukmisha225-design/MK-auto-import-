@@ -135,7 +135,17 @@ footer {
         <li>🛡️ Vehículos revisados y con garantía</li>
     </ul>
 </section>
+<section>
+    <h2>¿Por qué elegir MK Auto Import?</h2>
 
+    <ul>
+        <li>✅ Vehículos seleccionados en Alemania y Europa</li>
+        <li>✅ Ayuda en todo el proceso de compra</li>
+        <li>✅ Transparencia y confianza</li>
+        <li>✅ Gestión completa hasta la entrega del vehículo</li>
+        <li>✅ Atención personalizada para cada cliente</li>
+    </ul>
+</section>
 <section id="contacto">
     <h2>Contacto</h2>
 
