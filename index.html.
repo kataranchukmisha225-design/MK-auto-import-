@@ -75,15 +75,21 @@ footer {
     margin: 20px auto;
 }
 
-.boton {
-    display: inline-block;
-    background: #e30613;
-    color: white;
-    padding: 15px 30px;
-    border-radius: 8px;
-    text-decoration: none;
-    font-weight: bold;
-} 
+.boton{
+    display:inline-block;
+    background:#00a651;
+    color:white;
+    padding:15px 30px;
+    border-radius:8px;
+    text-decoration:none;
+    font-weight:bold;
+    transition:0.3s;
+}
+
+.boton:hover{
+    background:#008a44;
+    transform:scale(1.05);
+}
 .logo {
     width: 180px;
     height: auto;
