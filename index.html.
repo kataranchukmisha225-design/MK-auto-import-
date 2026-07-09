@@ -175,18 +175,17 @@ footer {
         Contactar por WhatsApp
     </a>
 </section>
+...
+</section> <!-- Fin de "Sobre Nosotros" -->
+
 <section id="coches">
-    <h2>Próximamente vehículos disponibles</h2>
 
-    <p>
-        Estamos preparando nuestro catálogo de vehículos importados.
-        Muy pronto podrás ver coches seleccionados de Alemania y Europa.
-    </p>
+    <!-- Aquí va el nuevo código -->
 
-    <p>
-        Si buscas un modelo concreto, contacta con nosotros y lo buscamos para ti.
-    </p>
 </section>
+
+<section id="contacto">
+...
 <div class="galeria">
 
     <div class="coche">
